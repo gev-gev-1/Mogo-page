@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1024px) {
+  @import "max-w992";
+}
+@media only screen and (max-width: 991px) {
+  @import "max-w768";
+}
+@media only screen and (max-width: 768px) {
+  @import "max-w375";
+}
